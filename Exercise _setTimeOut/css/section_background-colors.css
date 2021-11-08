@@ -1,0 +1,58 @@
+section#background-colors {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 720px;
+    
+    }
+section#background-colors div{
+        width: 120px;
+        height: 50px;
+        }
+.colors {
+    
+    background-color: green;
+    text-align: center;
+    flex-basis: 100%;
+  
+}
+#background-colors div.black {
+    background-color: black;
+}
+#background-colors div.teal {
+    background-color: teal;
+}
+#background-colors div.blue {
+    background-color: blue;
+}
+#background-colors div.navy {
+    background-color: navy;
+}
+#background-colors div.lime {
+    background-color: lime;
+}
+#background-colors div.white {
+    background-color: white;
+}
+#background-colors div.purple {
+    background-color: purple;
+}
+#background-colors div.yellow {
+    background-color: yellow;
+}
+#background-colors div.olive {
+    background-color: olive;
+}
+#background-colors div.red {
+    background-color: red;
+}
+#background-colors div.gray {
+    background-color: gray;
+}
+#background-colors div.fuchsia {
+    background-color: fuchsia;
+}
+#background-colors div.green {
+    background-color: green;
+    flex: 3 1 0;
+}

@@ -1,0 +1,18 @@
+@import "./section_background-colors.css";
+@import "./section_letter-colors.css";
+
+body{
+    background: url(./img_madera_fondo.jpg) repeat-y;
+    background-size: 100%;
+}
+main {
+    width: 800px;
+    margin: 0 auto;
+    
+}
+h2 {
+    text-align: center;
+   
+}
+
+

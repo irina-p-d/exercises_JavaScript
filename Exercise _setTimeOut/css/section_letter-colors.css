@@ -1,0 +1,51 @@
+
+#letter-colors p, #letter-colors div {
+    font-size: 1.7em;
+     text-align: center; 
+        
+}
+#letter-colors span.black {
+        color: black;
+}
+#letter-colors span.teal {
+   color: teal;
+}
+#letter-colors span.blue {
+    color: blue;
+ }
+ #letter-colors span.navy {
+    color: navy;
+ }
+ #letter-colors span.lime {
+    color: lime;
+ }
+ #letter-colors span.white {
+    color: white;
+ }
+ #letter-colors span.purple {
+    color: purple;
+ }
+ #letter-colors span.yellow {
+    color: yellow;
+ }
+ #letter-colors span.olive {
+    color: olive;
+ }
+ #letter-colors span.red {
+    color: red;
+ }
+ #letter-colors span.gray {
+    color: gray;
+ }
+ #letter-colors span.fuchsia {
+    color: fuchsia;
+ }
+ #letter-colors span.green {
+    color: green;
+ }
+ #letter-colors span.aqua {
+    color:aqua;
+ }
+ #letter-colors span.silver {
+    color:silver;
+ }
